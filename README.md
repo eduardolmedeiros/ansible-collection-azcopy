@@ -1,4 +1,4 @@
-# Ansible Collection - eduardolmedeiros.azcopy
+# Ansible Collection - eduardolmedeiros.azcopy_collection
 
 This collection install azcopy binary from microsoft repository.
 
